@@ -1,0 +1,6 @@
+[package]
+name = "var_scope"
+version = "0.1.0"
+authors = ["Neel Kuila <neelk1123@gmail.com>"]
+
+[dependencies]
